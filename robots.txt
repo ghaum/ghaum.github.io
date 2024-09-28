@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ghaum.github.io/qSn/sitemap.qSn.gz
